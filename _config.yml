@@ -17,7 +17,7 @@ title: Warren Buffett's letters to shareholders
 description: > # this means to ignore newlines until "baseurl:"
   Copyright Warren Buffett & Berskshire Hathaway
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://erdostom.github.io/buffetletters/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://erdostom.github.io/buffettletters/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
