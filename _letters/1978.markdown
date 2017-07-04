@@ -29,7 +29,7 @@ The table shows the overall earnings of each major operating category on a pre-t
 
 
 ### Net Earnings
-![earnings]({{site.url}}/assets/1978_1.PNG)
+![earnings]({{site.url}}assets/1978_1.PNG)
 
 Blue Chip and Wesco are public companies with reporting requirements of their own.  Later in this report we are reproducing the narrative reports of the principal executives of both companies, describing their 1978 operations.  Some of the figures they utilize will not match to the penny the ones we use in this report, again because of accounting and tax complexities.  But their comments should be helpful to you in understanding the underlying economic characteristics of these important partly- owned businesses.  A copy of the full annual report of either company will be mailed to any shareholder of Berkshire upon request to Mr. Robert H. Bird for Blue Chips Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040, or to Mrs. Bette Deckard for Wesco Financial Corporation, 315 East Colorado Boulevard, Pasadena, California 91109. 
 
